@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: The Pulse of Knowledge
 ---
 #### New idea
